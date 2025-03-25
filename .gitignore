@@ -1,3 +1,4 @@
 ec2-key-pair
+ec2-key-pair.pub
 .terraform*
 /.git/
